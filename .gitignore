@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/
+app.json
+appearance.json
+core-plugins-migration.json
+core-plugins.json
+hotkeys.json
+workspace.json
+
+# Media
+*/Materials/
+*.mp4
+*.pptx
+
+# img
+*.png
+
+# Etc
+.DS_Store
